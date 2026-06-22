@@ -21,12 +21,6 @@ This was my first project after learning front-end web development fundamentals 
 * JavaScript (ES6)
 * Tailwind CSS
 
-## Project Structure
-
-├── index.html
-├── style.css
-├── script.js
-└── tailwind.config.js
 
 ## What I Learned
 
